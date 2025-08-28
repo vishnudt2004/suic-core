@@ -1,0 +1,24 @@
+{
+  "name": "suic-core",
+  "version": "0.1.0",
+  "description": "Simple UI Components - Core Components",
+  "keywords": [
+    "suic",
+    "sui",
+    "ui",
+    "simple-ui-components",
+    "components",
+    "react",
+    "tailwindcss"
+  ],
+  "homepage": "https://suic-docs.vercel.app/docs/components",
+  "bugs": {
+    "url": "https://github.com/vishnudt2004/suic-core/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnudt2004/suic-core.git"
+  },
+  "license": "MIT",
+  "author": "Vishnu D <vishnu.d.t.2004@gmail.com>"
+}
