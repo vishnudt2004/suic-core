@@ -20,5 +20,6 @@
     "url": "git+https://github.com/vishnudt2004/suic-core.git"
   },
   "license": "MIT",
-  "author": "Vishnu D <vishnu.d.t.2004@gmail.com>"
+  "author": "Vishnu D <vishnu.d.t.2004@gmail.com>",
+  "private": true
 }
