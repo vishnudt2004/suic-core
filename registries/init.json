@@ -1,1 +1,27 @@
-{}
+{
+  "files": ["types/globals.d.ts", "utils/cn.ts"],
+  "additionalInstructions": [
+    {
+      "title": "Note",
+      "description": "Make sure to install the listed dependencies before using this package. Tip: the indicator dot color helps identify version compatibility with installed version."
+    },
+    {
+      "title": "Tip",
+      "description": "Run `suic-cli list` or visit suic-docs.vercel.app/components to explore all available components."
+    }
+  ],
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  },
+  "peerDependencies": {
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "tailwindcss": "^4"
+  }
+}
