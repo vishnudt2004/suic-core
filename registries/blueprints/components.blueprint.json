@@ -2,6 +2,7 @@
   {
     "name": "ComponentName",
     "description": "",
+    "docUrl": "<doc-url>",
     "files": ["abs-path/to/component-name.ext", "abs-path/to/local-dep.ext"],
     "dependencies": {
       "package": "version"
