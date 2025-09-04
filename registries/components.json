@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Carousel",
+    "description": "Customizable carousel with horizontal/vertical layout and accessible controls.",
+    "docUrl": "https://suic-docs/docs/components/carousel",
+    "files": ["components/carousel.tsx"],
+    "dependencies": {
+      "embla-carousel-react": "^8.6.0"
+    },
+    "devDependencies": {
+      "embla-carousel": "^8.6.0"
+    }
+  }
+]
