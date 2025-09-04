@@ -7,7 +7,7 @@
     },
     {
       "title": "Tip",
-      "description": "Run `suic-cli list` or visit suic-docs.vercel.app/components to explore all available components."
+      "description": "Run `suic-cli list` or visit suic-docs.vercel.app/docs/components to explore all available components."
     }
   ],
   "dependencies": {
